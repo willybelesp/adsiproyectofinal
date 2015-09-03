@@ -4,14 +4,13 @@
  * and open the template in the editor.
  */
 
-package pruebagit;
-
-import javax.swing.JOptionPane;
+package Controladores;
 
 /**
  *
  * @author Sala221
  */
-public class PruebaGit {
+public class ValidarPpal {
     
 }
+
